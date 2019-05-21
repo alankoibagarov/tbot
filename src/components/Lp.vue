@@ -210,6 +210,7 @@ a {
   }
   .text-left-block {
     margin: 0 auto;
+    
   }
 }
 
